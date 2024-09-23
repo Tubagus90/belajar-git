@@ -1,1 +1,0 @@
-console.log('ini test ke 2 baru')
